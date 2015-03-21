@@ -6,5 +6,5 @@ For each dataset, I use a parser to parse them in order to match the interface o
 
 Simply run the command ``python main.py <dataset>`` like ``python main.py cifar-10`` or ``python main.py svhn`` to train and test the model.
 
-Best precision rate on cifar-10 test batch: 74.0%. Best precision rate on svhn test batch: 91.8%.
+Best precision rate on cifar-10 test batch: 74.0%. Best precision rate on svhn test batch: 91.9%.
 
